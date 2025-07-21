@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Jogo_PJD2M.unity
     guid: 5b2f2daa0cd537c4396c1ad1439be63e
   - enabled: 1
-    path: Assets/Scenes/texto.unity
+    path: Assets/Scenes/Cena de inicio.unity
     guid: 70dd4d3041e071c4e9e89b96dfe24a3a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
